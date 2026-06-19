@@ -1,1 +1,0 @@
-Matematika Diskrit adalah mata kuliah wajib di Teknik Informatika ITB. Mahasiswa mempelajari logika, graf, dan teori himpunan untuk membangun fondasi berpikir algoritmik yang kuat.

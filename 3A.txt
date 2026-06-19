@@ -1,1 +1,0 @@
-Algoritma Dijkstra digunakan untuk mencari lintasan terpendek dari satu simpul ke simpul lainnya di dalam sebuah graf berbobot positif.

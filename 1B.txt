@@ -1,1 +1,0 @@
-Mata kuliah wajib di Informatika ITB adalah Matematika Diskrit. Mahasiswa di sana mempelajari materi graf, logika, serta teori himpunan guna membentuk dasar berpikir algoritmik yang kuat.
